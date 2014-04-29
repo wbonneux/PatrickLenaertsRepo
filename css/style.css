@@ -1232,13 +1232,11 @@ p + hr {
 .portfolio_1_2 ul li {
 	margin:0 20px 60px 0;
 	width:460px;
-	height:454px;
 	float:left;
 	background:#FFF;
 }
 .portfolio_1_2 ul li .image {
 	width:448px;
-	height:325px;
 	padding:5px;
 	border:1px solid #cccccc;
 	display:block;
@@ -1248,7 +1246,6 @@ p + hr {
 }
 .portfolio_1_2 ul li .image .portfolio_image {
 	width:448px;
-	height:325px;
 }
 .portfolio_1_2 ul li .title {
 	border-bottom:1px solid #cccccc;
@@ -3714,5 +3711,4 @@ ul.sidebarmenu li:hover {
 .myportfolio_1_2 ul li
 {
 	margin:0 20px 20px 0;
-	height:330px;
 }
