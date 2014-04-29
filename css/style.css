@@ -330,21 +330,21 @@ p + hr {
 }
 .header_bg {
 	/*  min-height:160px;*/
-	height:150px;
-	background:#403830 url(../images/header-bg_2.jpg) repeat-x;
+	height:100px;
+	background:#403830 url(../images/header-bg_3.jpg) repeat-x;
 }
 .header_bg.grey {
 	background:#f2f2f2 url("../images/header_delimiter.png") repeat-x bottom;
 }
 .header_bg .logo {
 	float:left;
-	margin-bottom:10px;
-	margin-top: 50px;
+	margin-bottom:0px;
+	margin-top: 10px;
 `
 }
 /* ================= Header Menu ================= */
 .main-menu {
-	margin:113px 0 0 0;
+	margin:60px 0 0 0;
 	float:right;
 }
 .main-menu ul {
@@ -3714,5 +3714,5 @@ ul.sidebarmenu li:hover {
 .myportfolio_1_2 ul li
 {
 	margin:0 20px 20px 0;
-	height:380px;
+	height:330px;
 }

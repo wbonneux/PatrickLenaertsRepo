@@ -1,4 +1,3 @@
-//testing version github
 <?php include '_/components/header_include.php'?>
 <!-- /Header -->
 <body>
@@ -10,17 +9,7 @@
 	<div class="container clearfix">
 		<div class="flexslider">
 			<ul class="slides">
-				<li><img src="images/fslide_2.jpg" alt="" />
-					<p class="flex-caption">Recente projecten!</p></li>
-				<li><img src="images/fslide_1.jpg" alt="" />
-					<p class="flex-caption">Recente projecten!</p></li>
-				<li><img src="images/fslide_3.jpg" alt="" />
-					<p class="flex-caption">Recente projecten!</p></li>
-				<!-- 				<li><img src="images/fslide04.jpg" alt="" /></li> -->
-
-				<!-- 				<li><img src="images/fslide05.jpg" alt="" /></li> -->
-
-				<!-- 				<li><img src="images/fslide06.jpg" alt="" /></li> -->
+				<li><a href="trappen.php"><img src="images/100_1463_cropped.jpg" alt="Patrick Lenaerts - Specialist in het bekleden van betonnen trappen in hout &amp; balustrades" /></a></li>
 			</ul>
 		</div>
 	</div>
@@ -91,6 +80,16 @@
 				terugvinden, alsook vindt u alle nodige informatie terug. Wilt u
 				meer informatie of een vrijblijvende offerte laten maken, neem dan
 				zeker contact op. U vindt alle informatie op onze <a href="contact.php">contactpagina</a></p>
+				<p style='text-align:center'>
+					<a href="trappen.php">
+						<img alt="Patrick Lenaerts - Specialist in het bekleden van betonnen trappen in hout &amp; balustrades" src="images/100_1285_cropped.jpg" height='150px'>
+					</a>
+					&nbsp;
+					&nbsp;
+					<a href="balustrades.php">
+						<img alt="Patrick Lenaerts - Specialist in het bekleden van betonnen trappen in hout &amp; balustrades" src="images/100_0946_cropped.jpg" height='150px'>
+					</a>
+				</p>
 		</div>
 		<!-- END COL 1/2 -->
 
